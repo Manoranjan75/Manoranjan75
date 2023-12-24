@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoranjan Kumar</h1>
 <h3 align="center">A passionate engineer student from India</h3>
-<img align="right" alt="coding" width="800" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2RpJxQZmJvJXm0Nqpblohg&ust=1703507627977000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCG6M2KqIMDFQAAAAAdAAAAABAX">
+<img align="right" alt="coding" width="800" src="https://github.com/Manoranjan75/Manoranjan75/issues/1#issue-2055091176">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan75&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan75" /> </p>
 

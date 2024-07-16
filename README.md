@@ -1,4 +1,4 @@
-![logo](https://github.com/Manoranjan75/Manoranjan75/blob/main/Background_2.png)
+![logo](https://github.com/Manoranjan75/Manoranjan75/blob/main/Background_3.png)
 <h1 align="center">Hi 👋, I'm Manoranjan Kumar</h1>
 <h3 align="center">A passionate engineer student from India</h3>
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">

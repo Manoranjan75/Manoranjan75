@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan75&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan75" /> </p>
 
-- 🌱 I’m currently studing in Bennett University**
+- 🌱 I’m currently studing in Bennett University
 
 - 📫 How to reach me **manoranjan87000@gmail.com**
 

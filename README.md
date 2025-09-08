@@ -1,6 +1,6 @@
 ![logo](https://github.com/Manoranjan75/Manoranjan75/blob/main/Background_3.png)
 <h1 align="center">Hi 👋, I'm Manoranjan Kumar</h1>
-<h3 align="center">A passionate engineer student from India</h3>
+<h3 align="center">A passionate Computer Science engineer from India</h3>
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan75&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan75" /> </p>

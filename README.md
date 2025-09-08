@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan75&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan75" /> </p>
 
-- 🌱 B.Tech CSE, Bennett University &nbsp; <a href="mailto:YOUR_EMAIL@example.com" target="_blank" >
+- 🌱 B.Tech CSE, Bennett University &nbsp; <a href="https://www.bennett.edu.in/" target="_blank" >
   <img src="https://www.bennett.edu.in/wp-content/uploads/2019/10/Bennett-University-logo1-.png" width="75" height="60">
 </a>
 
-- How to reach me-> &nbsp; <a href="mailto:YOUR_EMAIL@example.com" target="_blank" >
+- How to reach me-> &nbsp; <a href="mailto:manoranjan87000@gmail.com" target="_blank" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30">
 </a>
 

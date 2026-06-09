@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan75&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan75" /> </p>
 
 - 🌱 B.Tech CSE,&nbsp; <a href="https://www.bennett.edu.in/" target="_blank" >
-  <img src="https://www.bennett.edu.in/wp-content/uploads/2019/10/Bennett-University-logo1-.png" width="75" height="60">
+  <img src="https://www.bennett.edu.in/wp-content/uploads/2019/10/Bennett-University-logo1-.png" width="120" height="40">
 </a>
 
 - How to reach me-> &nbsp; <a href="mailto:manoranjan87000@gmail.com" target="_blank" >
@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.sap.com/products/abap.html" target="_blank" rel="noreferrer">
-    <img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/09/what-is-SAP-ABAP-Programming.jpg" alt="sap_abap" width="70" height="70"/>
+    <img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/09/what-is-SAP-ABAP-Programming.jpg" alt="sap_abap" width="70" height="40"/>
   </a>
   <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1919685185035014144/YTnrFPhe_400x400.png" alt="servicenow" width="50" height="40"/>

@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoranjan75&label=Profile%20views&color=0e75b6&style=flat" alt="manoranjan75" /> </p>
 
 - 🌱 B.Tech CSE,&nbsp; <a href="https://www.bennett.edu.in/" target="_blank" >
-  <img src="https://www.bennett.edu.in/wp-content/uploads/2019/10/Bennett-University-logo1-.png" width="120" height="40">
+  <img src="https://www.bennett.edu.in/wp-content/uploads/2019/10/Bennett-University-logo1-.png" width="65" height="25">
 </a>
 
 - How to reach me-> &nbsp; <a href="mailto:manoranjan87000@gmail.com" target="_blank" >
